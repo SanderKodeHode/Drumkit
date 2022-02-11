@@ -30,7 +30,7 @@ function keyInstrument(event) {
     if (keyName == 8) drumInstrument.hihat.play()
 
 //Alternative
-    // const soundMap = {
+    // const instrumentSet = {
     //     1: drumInstrument.kick,
     //     2: drumInstrument.openhat,
     //     3: drumInstrument.ride,
@@ -40,7 +40,7 @@ function keyInstrument(event) {
     //     7: drumInstrument.clap,
     //     8: drumInstrument.hihat,
     // }
-    // soundMap[keynameName].play()
+    // InstrumentSet[keynameName].play()
 }
 
 //MouseClick
