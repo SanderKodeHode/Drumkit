@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    background-color: blue;
+}
+button {
+    padding: 25px;
+    background-color: red;
+}
+button * { pointer-events: none }
